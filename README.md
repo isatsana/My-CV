@@ -1,4 +1,4 @@
 ## My CV
-[Ссылка на CV](CV.2.pdf)
+[Ссылка на CV](CV.docx.pdf)
 
 
